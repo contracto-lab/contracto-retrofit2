@@ -6,6 +6,6 @@ class EmptyTest {
     
     @Test
     fun nothing() {
-        assertTrue(true)
+        assertTrue(false)
     }
 }
